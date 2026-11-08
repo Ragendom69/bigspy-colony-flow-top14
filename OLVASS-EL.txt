@@ -1,0 +1,16 @@
+BigSpy / Colony Flow! - 2026. november 8.
+
+14 MP4 a jelenlegi fiókban és keresésben teljesen hozzáférhető, hosszabban futó 15 kreatív közül.
+Keresés: colony flow!, Exact Search, Game, 2024-11-08 - 2026-11-08; Ads deduplikáció; futási napok szerint csökkenő rendezés.
+A keresés 714 hirdetést, alap deduplikációval 376, szigorú deduplikációval 157 találatot jelzett. A további találatok Special Creative jelölést kaptak. A kiválasztás nem igazolt globális top 14 az összes 714 hirdetésből.
+
+Pontszám = 25 * (futási napok/61 + Creative Score/130000 + megjelenések/698000 + Popularity/397).
+Mind a négy mutató súlya 25%. A normalizálás alapja a 15 jelölt közötti legmagasabb érték. Az értékek a BigSpy által megjelenített, kerekített számok.
+
+A megvizsgált Overview és Data Trends panelekben nem találtam költést, kattintást, CTR-t, konverziót, CPA-t, CPI-t vagy ROAS-t. A Popularity nem kattintásszámként szerepel. A sorrend közvetett teljesítményjeleket használ, nyereségességet nem bizonyít.
+A kimaradt jelölt: 31 nap, 34000 Creative Score, 188000 megjelenés, 150 Popularity; 35,42 pont.
+
+rangsor.csv: sorrend, fájlnév, mutatók, hirdetésazonosító, MP4-cím és fájlméret.
+video-linkek.txt: csak a közvetlen MP4-címek, soronként.
+A fájlnevek elején a rangsor szerinti sorszám áll.
+Mind a 14 fájl letöltődött; az MP4-fejlécüket ellenőriztem.
